@@ -1,0 +1,13 @@
+ 
+.heading{
+    color: rgb(255, 238, 7);
+    background-color: rgb(0, 0, 0);
+    font-size:medium;
+    text-align:center;
+}
+.paragraph{
+    color:#2ef538;
+    background-color: black;
+    font-family:'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}  
